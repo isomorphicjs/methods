@@ -1,0 +1,13 @@
+{
+  "name": "methods",
+  "repo": "isomorphicjs/methods",
+  "description": "Methods supported by NodeJS",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
